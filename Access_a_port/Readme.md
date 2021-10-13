@@ -13,27 +13,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Setting up Data Input</a></li>
-      </ul>
-    </li>
-    <li><a href="#More Details">More Details</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## User Guide on Setting up TCP Data Input to receive data 
-
-
 
 
 
@@ -42,19 +21,12 @@
 
 To configure TCP data input in Splunk follow these simple steps.
 
-### Prerequisites
+### Opening or Accessing a port
 
- netcat is the package we need to send data from one instance to another.Execute the below code in the non splunk instance
-  ```sh
-  sudo apt install netcat
-  ```
-
-### Setting up 
-
-1. Open Splunk and Go to Settings-->Data Inputs
+1. There are two ways to do it.If you have a instance up and running Click on the instance name and scroll down and Click Network
   
   
-2. Click TCP input and Click Create new
+2. Choose firewall rule
    
    
 3. Type port number 514 and Click next 
