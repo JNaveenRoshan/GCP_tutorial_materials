@@ -32,9 +32,9 @@
    
 5. Choose the direction of traffic 
 
-**Ingress**
+        **Ingress**
 
-**Egress**
+        **Egress**
 
 
 6. Review and Click Sumbit
