@@ -7,7 +7,7 @@
     <br />
     <br />
     <br />
-    <a href="https://youtu.be/TiH9s4YM-aQ">View Tutorial</a>
+    <a href="https://youtu.be/GTj-y8Osm3s">View Tutorial</a>
   </p>
 </p>
 
