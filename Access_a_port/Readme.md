@@ -32,28 +32,24 @@
    
 5. Choose the direction of traffic 
 
-        **Ingress**
+        Ingress - Incoming traffic
 
-        **Egress**
-
-
-6. Review and Click Sumbit
+        Egress - Outgoing traffic
 
 
-  **Note** - Always remember to create the firewall rule to access the port
+6. Choose the all instances in the netwok option under target menu to apply this so that all instances can access this port
 
 
-7. In the non splunk instance execute the following command to send the data to splunk
-   ```sh
-   cat <location of file> | nc <IP address> <Port number>
-   ```
+7. Type the source IP range(Meaning you can restrict which IPs can access this if you want all ips then provide 0.0.0.0/0)
 
-<!-- USAGE EXAMPLES -->
-## More Details
 
-Use the below link for the official documentation of Splunk
+8. Under Protocols and ports choose all to access all ports 
 
- please refer to the [Documentation](https://docs.splunk.com/Documentation/SplunkCloud/latest/Data/Monitornetworkports)
+9. Choose Specific ports and choose tcp or udp or custom 
+
+10. Click Create 
+ 
+
 
 
 
