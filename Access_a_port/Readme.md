@@ -27,10 +27,14 @@
 3. The second way is moving to Navigation bar in fcp console and Clicking VPC,Choose firewall and Click Add new firewall rule
   
   
-4. Choose Searching and Reporting App  
+4. Provide the name of the firewall rule
    
    
-5. Creating a new index,sourcetype are optional
+5. Choose the direction of traffic 
+
+**Ingress**
+
+**Egress**
 
 
 6. Review and Click Sumbit
