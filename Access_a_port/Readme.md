@@ -16,20 +16,15 @@
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-To configure TCP data input in Splunk follow these simple steps.
-
 ### Opening or Accessing a port
 
 1. There are two ways to do it.If you have a instance up and running Click on the instance name and scroll down and Click Network
   
   
-2. Choose firewall rule
+2. Choose firewall rule and Click Add new firewall rule
    
    
-3. Type port number 514 and Click next 
+3. The second way is moving to Navigation bar in fcp console and Clicking VPC,Choose firewall and Click Add new firewall rule
   
   
 4. Choose Searching and Reporting App  
