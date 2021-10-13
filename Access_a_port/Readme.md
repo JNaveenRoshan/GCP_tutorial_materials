@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h3 align="center">How to send data to Splunk via TCP</h3>
+  <h3 align="center">How to access a particular port in GCP</h3>
 
   <p align="center">
     <br />
