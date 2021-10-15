@@ -39,7 +39,7 @@
 7. Now you will have the size increased as per your requirements
 
 
-8. Note that however in deleting the instance
+8. Note that however in deleting the instance the default boot disk will be deleted but not the additional disk
 
 9. Choose Specific ports and choose tcp or udp or custom 
 
