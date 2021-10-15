@@ -41,10 +41,10 @@
 
 8. Note that however in deleting the instance the default boot disk will be deleted but not the additional disk
 
-9. Choose Specific ports and choose tcp or udp or custom 
 
-10. Click Create 
- 
+9. You can see this but going to Compute engine-->Disks
+
+
 
 
 
