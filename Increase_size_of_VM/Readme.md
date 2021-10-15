@@ -7,7 +7,7 @@
     <br />
     <br />
     <br />
-    <a href="https://youtu.be/GTj-y8Osm3s">View Tutorial</a>
+    <a href="">View Tutorial</a>
   </p>
 </p>
 
@@ -16,15 +16,15 @@
 
 
 
-### Opening or Accessing a port
+### Increasing a size of VM machines
 
-1. There are two ways to do it.If you have a instance up and running Click on the instance name and scroll down and Click Network
-  
-  
-2. Choose firewall rule and Click Add new firewall rule
+1. Click the name of the VM instance you want to increase the size of
+
+
+2. Click the boot disk and Click edit on the header tab (Do this if you want to increase the size of the default boot disk i.e disk created when creating VM instance)
    
    
-3. The second way is moving to Navigation bar in fcp console and Clicking VPC,Choose firewall and Click Add new firewall rule
+3.Type the size that you want 
   
   
 4. Provide the name of the firewall rule
