@@ -42,7 +42,7 @@
 8. Note that however in deleting the instance the default boot disk will be deleted but not the additional disk
 
 
-9. You can see this but going to Compute engine-->Disks
+9. You can see this by going to Compute engine-->Disks
 
 
 
