@@ -1,13 +1,13 @@
 
 
 <p align="center">
-  <h3 align="center">How to create a VM in GCP</h3>
+  <h3 align="center">How to create a Windows machine in GCP</h3>
 
   <p align="center">
     <br />
     <br />
     <br />
-    <a href="https://youtu.be/p1hNyG-L7gs">View Tutorial</a>
+    <a href="https://youtu.be/u4_uHNdzH1E">View Tutorial</a>
   </p>
 </p>
 
