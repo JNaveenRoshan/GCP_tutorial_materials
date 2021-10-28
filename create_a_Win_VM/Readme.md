@@ -21,6 +21,8 @@
 
 ### Windows machine in Google Cloud Platform
 
+<br />
+
 
 1. Type the name of the VM instance you want to create
 
