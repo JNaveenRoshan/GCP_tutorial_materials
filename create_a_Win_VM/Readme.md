@@ -19,7 +19,8 @@
 
 
 
-### Increasing a size of VM machines
+### Windows machine in Google Cloud Platform
+
 
 1. Type the name of the VM instance you want to create
 
