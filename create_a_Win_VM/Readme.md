@@ -24,22 +24,22 @@
 1. Type the name of the VM instance you want to create
 
 
-2. Click the boot disk and Click edit on the header tab (Do this if you want to increase the size of the default boot disk i.e disk created when creating VM instance)
+2. Click the boot disk and Under the public Image tab Choose the operating system as Windows Server
    
    
-3. Type the size that you want 
+3. Choose the version of the windows operating system that you need (I Chose Windows 2019 Datacenter)
   
   
-4. If you want to add an additional disks to increase the size
+4. If you want to add an additional disk space type the space you want to increase 
    
    
-5. Click Add additional disk
+5. Click Create
 
 
-6. Type the name of the additional disk and size you want then Click Create
+6. Once the VM Instance is created,Click the down arrow near the RDP button.
 
 
-7. Now you will have the size increased as per your requirements
+7. Click Set Windows password.A new windows pops up with username and password.Kindly make note of it
 
 
 8. If you want to change the OS version and choose the OS you want to by changing in the boot disk name
