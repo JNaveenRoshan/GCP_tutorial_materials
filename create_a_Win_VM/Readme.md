@@ -42,13 +42,13 @@
 7. Click Set Windows password.A new windows pops up with username and password.Kindly make note of it
 
 
-8. If you want to change the OS version and choose the OS you want to by changing in the boot disk name
+8. In your local machine on Start search for Remote Desktop Connection and Click it
 
 
-9. Then you want to allow Https traffic/ Http traffic if you want to access the External IP of your VM
+9. Type the external IP on the computer textbox and Click Connect
 
 
-10. Click create  
+10. Enter the necessary credentials and log on to the GUI of the windows VM 
 
 
 
